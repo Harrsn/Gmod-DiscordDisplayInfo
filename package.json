@@ -1,0 +1,15 @@
+{
+  "name": "discord-display-info",
+  "version": "1.0.0",
+  "description": "Displays server info based on config.json properties.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Harrsn",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.10.3",
+    "gamedig": "^4.0.5"
+  }
+}
